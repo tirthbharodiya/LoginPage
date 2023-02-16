@@ -1,0 +1,30 @@
+body{
+    background-color:azure;
+}
+
+/* dropdown */
+.drop{
+width: 100%;
+}
+
+.form-group{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+}
+
+.header-h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.align{
+    height: auto;
+    /* width: 70%; */
+    margin-top: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    box-shadow: 25px 25px 25px lightblue;
+    
+    /* padding: 50px; */
+}
